@@ -21,42 +21,46 @@
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c&perline=6" height="40"/>
 </p>
+
+---
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flask,mongodb&perline=6" height="40"/>
 </p>
+
+---
 
 ### 📊 Data Science & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=6" height="40"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas" height="25"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy" height="25"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn" height="25"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python" height="25"/>
 </p>
+
+---
 
 ### 🗄️ Databases
 
 <p>
-  <br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" height="40"/>
 </p>
+
+---
 
 ### 🛠️ Tools & Platforms
 
 <p>
-  <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" height="40"/>
 </p>
 
 ---
@@ -89,4 +93,4 @@
 
 ---
 
-
+⭐ *"Building intelligent systems and scalable web applications."*
