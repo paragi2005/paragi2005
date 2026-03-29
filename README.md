@@ -6,8 +6,8 @@
 <br>
 📍 India
 
----
 
+<br>
 ## 🚀 About Me
 
 💡 Passionate about **Full Stack Development and Data Science**
@@ -15,8 +15,8 @@
 📊 Interested in **Machine Learning, Data Analytics, and AI**
 🧠 Love building **scalable web applications and data-driven solutions**
 🌱 Currently learning **Advanced Machine Learning**
+<br>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python" height="25"/>
 </p>
 
-<br.
+<br>
 
 ### 🗄️ Databases
 
@@ -71,8 +71,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paragi2005\&theme=tokyonight)
 
----
 
+<br>
 ## 📂 Featured Projects
 
 ### 🌍 Tourist Guide Web Application
@@ -85,13 +85,13 @@
 * ⚙️ Developed backend APIs using **Flask** and managed data with **MongoDB**
 * 🎨 Designed clean and user-friendly UI using **HTML, CSS, and JavaScript**
 
----
+<br>
 
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/paragi-patil-aab83b2bb
 * 📧 Email: [paragivpatil123@gmail.com](mailto:paragivpatil123@gmail.com)
 * 🌐 Portfolio: https://portfolio-paragi2005s-projects.vercel.app/
-
+<br>
 
 ⭐ *"Building intelligent systems and scalable web applications."*
