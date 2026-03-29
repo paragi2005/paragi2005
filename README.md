@@ -69,13 +69,13 @@ I thrive on building real-world projects that solve actual problems. From traini
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paragi2005\&theme=tokyonight)
 
-<br>
+---
 
 ## 📂 Featured Projects
 
@@ -89,7 +89,7 @@ I thrive on building real-world projects that solve actual problems. From traini
 *  Developed backend APIs using **Flask** and managed data with **MongoDB**
 *  Designed clean and user-friendly UI using **HTML, CSS, and JavaScript**
 
-<br>
+---
 
 ## 📫 Connect With Me
 
@@ -107,6 +107,6 @@ I thrive on building real-world projects that solve actual problems. From traini
 </a>
 </p>
 
-<br>
+---
 
 ⭐ *"Building intelligent systems and scalable web applications."*
