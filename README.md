@@ -20,39 +20,40 @@
 
 ### 💻 Programming Languages
 
-* Python
-* JavaScript
-* Java
-* C
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java,c" />
+</p>
 
 ### 🌐 Web Development
 
-* HTML5
-* CSS3
-* JavaScript
-* Flask
-* MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,mongodb" />
+</p>
 
 ### 📊 Data Science & Machine Learning
 
-* Pandas
-* NumPy
-* Scikit-Learn
-* TensorFlow / PyTorch
-* Matplotlib / Seaborn
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python" />
+</p>
 
 ### 🗄️ Databases
 
-* MySQL
-* MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### 🛠️ Tools & Platforms
 
-* Git & GitHub
-* Jupyter Notebook
-* Google Colab
-* VS Code
-* Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
@@ -63,12 +64,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragi2005\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paragi2005\&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![Visitor Count](https://komarev.com/ghpvc/?username=paragi2005\&color=blue)
 
 ---
 
@@ -88,10 +83,11 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/paragi-patil-aab83b2bb)
+* 💼 LinkedIn: https://www.linkedin.com/in/paragi-patil-aab83b2bb
 * 📧 Email: [paragivpatil123@gmail.com](mailto:paragivpatil123@gmail.com)
-* 🌐 Portfolio: [https://yourportfolio.com](https://portfolio-paragi2005s-projects.vercel.app/)
+* 🌐 Portfolio: https://portfolio-paragi2005s-projects.vercel.app/
 
 ---
 
 ⭐ *"Building intelligent systems and scalable web applications."*
+
