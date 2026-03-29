@@ -1,16 +1,6 @@
-# Hi there 👋 I'm Paragi Patil
-
-🎓 Computer Science & Engineering Student (Data Science)
-<br>
-💻 Full Stack Developer | 📊 Data Science Enthusiast
-<br>
-📍 India
-
----
 
 ## 🚀 About Me
-
-I thrive on building real-world projects that solve actual problems. From training machine learning models to crafting pixel-perfect responsive web applications, I continuously strive to enhance my skills and stay updated with the latest technological advancements.
+I am a Computer Science & Engineering student specializing in Data Science, passionate about building real-world projects that solve actual problems. From training machine learning models to crafting pixel-perfect responsive web applications, I continuously strive to enhance my skills and stay updated with the latest technological advancements.
 
 ---
 
