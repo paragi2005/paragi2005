@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,java,c&perline=6" height="40"/>
 </p>
 
----
+<br>
 
 ### 🌐 Web Development
 
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,flask,mongodb&perline=6" height="40"/>
 </p>
 
----
+<br>
 
 ### 📊 Data Science & Machine Learning
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=python" height="25"/>
 </p>
 
----
+<br.
 
 ### 🗄️ Databases
 
@@ -57,7 +57,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" height="40"/>
 </p>
 
----
+<br>
 
 ### 🛠️ Tools & Platforms
 
@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" height="40"/>
 </p>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -93,6 +93,5 @@
 * 📧 Email: [paragivpatil123@gmail.com](mailto:paragivpatil123@gmail.com)
 * 🌐 Portfolio: https://portfolio-paragi2005s-projects.vercel.app/
 
----
 
 ⭐ *"Building intelligent systems and scalable web applications."*
