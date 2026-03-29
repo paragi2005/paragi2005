@@ -46,22 +46,22 @@
 ### 🗄️ Databases
 
 <p>
+  <br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<br>
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
+  <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <br>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paragi2005\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paragi2005\&layout=compact\&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=paragi2005\&theme=tokyonight)
 
@@ -89,5 +89,4 @@
 
 ---
 
-⭐ *"Building intelligent systems and scalable web applications."*
 
